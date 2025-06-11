@@ -37,3 +37,4 @@ print("📊 Classification Report:\n", report)
 print("🔁 Confusion Matrix:\n", conf_matrix)
 
 print(df['Health Condition'].value_counts())
+
