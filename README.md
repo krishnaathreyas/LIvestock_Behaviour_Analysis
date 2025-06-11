@@ -1,4 +1,4 @@
-#🐄 Multi-Modal Livestock Health and Behavior Analysis
+🐄 Multi-Modal Livestock Health and Behavior Analysis
 🚜 Empowering smart dairy farming with AI-driven early disease detection.
 
 📌 Project Overview
@@ -47,27 +47,13 @@ The final model predicts the health condition of the cow with strong accuracy an
 ✅ Result: Healthy or Sick – Needs Attention
 
 📊 Evaluation
-Accuracy: ~93% on validation data
+Accuracy: ~91% on validation data
 
 Fast inference and lightweight deployment
 
 Can run on low-end systems used in rural areas
 
-📁 Project Structure
-php
-Copy
-Edit
-📂 livestock-health-app/
-│
-├── app.py                 # Flask app
-├── model.pkl              # Trained ML model
-├── templates/
-│   └── index.html         # UI page
-├── static/
-│   └── style.css          # Styling
-├── dataset/
-│   └── MMCOWS.csv         # Training data
-└── README.md              # You're reading it now
+
 🔒 Privacy & Offline Support
 No cloud needed! The app can run completely offline, making it farmer-friendly in low-connectivity areas. Farmer data is not stored, ensuring privacy and trust.
 
@@ -98,6 +84,6 @@ Mobile app version for Android phones
 Pull requests are welcome. For major changes, please open an issue first. Let’s make smart farming a reality together!
 
 📬 Contact
-Developed with ❤️ by [Your Name]
-📧 your.email@example.com
+Developed with ❤️ by Krishna Athreyas 
+📧 krishnaathreyas8@gmail.com
 📍 Based in Karnataka, India 🇮🇳
